@@ -1,3 +1,3 @@
 # Ottergram
-Ottergram - CSUF Web-Front end
+Ottergram - CSUF Web-Front end<br/>
 Alex Mulvaney - CPSC349
